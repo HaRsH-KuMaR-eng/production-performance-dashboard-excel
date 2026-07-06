@@ -7,10 +7,9 @@ An interactive **Production Dashboard** built in **Microsoft Excel** using Pivot
 ## 📷 Dashboard Preview
 
 <p align="center">
-<img src="https://github.com/yourusername/yourrepository/assets/dashboard.png" width="100%">
+  <img src="https://raw.githubusercontent.com/HaRsH-KuMaR-eng/production-performance-dashboard-excel/367814c74f93a172103b3737c399e5b65ed62d53/project2.png" width="100%">
 </p>
 
-> Replace the image above with your dashboard screenshot after uploading it to GitHub.
 
 ---
 
@@ -173,7 +172,6 @@ Production-Performance-Dashboard/
 ├── Production Dashboard.xlsx
 ├── Dashboard Screenshot.png
 ├── README.md
-└── Images/
 ```
 
 ---
@@ -225,5 +223,3 @@ This project demonstrates how Excel can be used as a Business Intelligence tool 
 **Harsh Kumar**
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
